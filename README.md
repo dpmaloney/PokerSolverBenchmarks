@@ -8,7 +8,7 @@ My Solver may not build the tree in the exact same way as pio because pio rounds
 
 | jesolver 1084 (Default Settings) | Piosolver 2.0.7.13 | My Solver |
 | :----: | :----: | :----: |
-| 563.836 sec | 2000+ sec (timed out) | 1336 sec or 368 sec |
+| 563 sec | 2000+ sec (timed out) | 617 seconds |
 | 14,679 mb of ram | 12,003 mb of ram | 11,886 mb of ram |
 
 Notes: Piosolver only uses 50% of the CPU for the whole benchmark, odd. 
