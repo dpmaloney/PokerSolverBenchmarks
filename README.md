@@ -8,4 +8,5 @@ BigBench.txt to .5% of the pot.
 | ---- | ---- | ---- |
 | 563.836 sec | |
 | 14,679 mb of ram | 12,003 mb of ram | |
+
 Notes: Piosolver only uses 50% of the CPU for the whole benchmark, odd.
